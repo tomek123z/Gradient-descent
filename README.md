@@ -1,6 +1,6 @@
 # Gradient-descent
 
-**Gradient Descent là thuật toán giúp mình tìm đáp án tốt nhất cho một bài toán.
+Gradient Descent là thuật toán giúp mình tìm đáp án tốt nhất cho một bài toán.
 
 Bài 2: Tạo data, vẽ đáp án bằng công thức.
 
